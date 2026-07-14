@@ -1,6 +1,6 @@
-﻿# wrightcapbot
+# wrightcapbot
 
-Dashboard + Kernel Distribution.
+Gateway + Dashboard Kernel Distribution.
 
 ## License
 
