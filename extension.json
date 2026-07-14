@@ -1,0 +1,54 @@
+{
+  "name": "wrightcapbot",
+  "version": "1.0.0",
+  "description": "WrightCapBot Kernextensions",
+  "type": "bundle",
+  "min_version": "1.0.0",
+  "repository": "https://github.com/jarvix-code/wrightcapbot",
+  "extensions": [
+    {
+      "name": "arztbrief-schreiber",
+      "path": "extensions/arztbrief-schreiber"
+    },
+    {
+      "name": "pipeline-health-check",
+      "path": "extensions/pipeline-health-check"
+    },
+    {
+      "name": "pipeline-self-healing",
+      "path": "extensions/pipeline-self-healing"
+    },
+    {
+      "name": "qm_v2",
+      "path": "extensions/qm_v2"
+    },
+    {
+      "name": "repo-pflege",
+      "path": "extensions/repo-pflege"
+    },
+    {
+      "name": "screen-translator",
+      "path": "extensions/screen-translator"
+    },
+    {
+      "name": "sentinel-scanner",
+      "path": "extensions/sentinel-scanner"
+    },
+    {
+      "name": "system-status-kachel",
+      "path": "extensions/system-status-kachel"
+    },
+    {
+      "name": "telefonanlage",
+      "path": "extensions/telefonanlage"
+    },
+    {
+      "name": "transkription",
+      "path": "extensions/transkription"
+    },
+    {
+      "name": "vera-office",
+      "path": "extensions/vera-office"
+    }
+  ]
+}
